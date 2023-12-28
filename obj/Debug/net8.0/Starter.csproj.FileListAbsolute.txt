@@ -1,0 +1,15 @@
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/fav/code/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
